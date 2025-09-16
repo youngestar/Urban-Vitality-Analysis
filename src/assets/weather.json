@@ -2,8 +2,8 @@
   "meta": {
     "location": "宜昌市兴山县",
     "data_source": ["中国天气网", "中央气象台", "墨迹天气"],
-    "update_time": "2025-09-10T09:33:00+08:00",
-    "data_range": "2025-09-06至2025-09-20"
+    "update_time": "2025-09-16T16:23:00+08:00",
+    "data_range": "2025-09-06至2025-11-30"
   },
   "weather_data": [
     {
@@ -95,6 +95,372 @@
       "weather": "雨转阴",
       "temperature": "15℃~22℃",
       "wind": "西风 1级"
+    },
+    {
+      "date": "2025-09-21",
+      "weather": "阴",
+      "temperature": "20℃~30℃",
+      "wind": "北风 1级"
+    },
+    {
+      "date": "2025-09-22",
+      "weather": "小雨",
+      "temperature": "20℃~22℃",
+      "wind": "北风 1级"
+    },
+    {
+      "date": "2025-09-23",
+      "weather": "小雨",
+      "temperature": "15℃~23℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-09-24",
+      "weather": "多云",
+      "temperature": "15℃~29℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-09-25",
+      "weather": "多云",
+      "temperature": "15℃~32℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-09-26",
+      "weather": "多云",
+      "temperature": "15℃~33℃",
+      "wind": "东北风 2级"
+    },
+    {
+      "date": "2025-09-27",
+      "weather": "多云",
+      "temperature": "16℃~32℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-09-28",
+      "weather": "阴",
+      "temperature": "16℃~28℃",
+      "wind": "东南风 1级"
+    },
+    {
+      "date": "2025-09-29",
+      "weather": "阴",
+      "temperature": "15℃~31℃",
+      "wind": "东风 1级"
+    },
+    {
+      "date": "2025-09-30",
+      "weather": "多云",
+      "temperature": "15℃~32℃",
+      "wind": "东北风 2级"
+    },
+    {
+      "date": "2025-10-01",
+      "weather": "多云",
+      "temperature": "17℃~33℃",
+      "wind": "东北风 2~3级"
+    },
+    {
+      "date": "2025-10-02",
+      "weather": "多云",
+      "temperature": "16℃~27℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-03",
+      "weather": "小雨",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-04",
+      "weather": "小雨",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-05",
+      "weather": "多云",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-06",
+      "weather": "小雨",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-07",
+      "weather": "多云",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-08",
+      "weather": "晴",
+      "temperature": "15℃~24℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-09",
+      "weather": "晴",
+      "temperature": "16℃~26℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-10",
+      "weather": "晴",
+      "temperature": "17℃~26℃",
+      "wind": "东北风 <3级"
+    },
+    {
+      "date": "2025-10-11",
+      "weather": "多云",
+      "temperature": "14℃~24℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-12",
+      "weather": "小雨",
+      "temperature": "14℃~23℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-13",
+      "weather": "多云",
+      "temperature": "14℃~23℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-14",
+      "weather": "晴",
+      "temperature": "14℃~24℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-15",
+      "weather": "多云",
+      "temperature": "13℃~25℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-16",
+      "weather": "晴",
+      "temperature": "16℃~25℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-17",
+      "weather": "多云",
+      "temperature": "13℃~25℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-18",
+      "weather": "晴",
+      "temperature": "16℃~25℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-19",
+      "weather": "多云",
+      "temperature": "14℃~24℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-20",
+      "weather": "多云",
+      "temperature": "13℃~22℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-21",
+      "weather": "晴",
+      "temperature": "16℃~24℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-22",
+      "weather": "晴",
+      "temperature": "13℃~24℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-23",
+      "weather": "多云",
+      "temperature": "15℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-24",
+      "weather": "小雨",
+      "temperature": "14℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-25",
+      "weather": "多云",
+      "temperature": "15℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-26",
+      "weather": "多云",
+      "temperature": "12℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-27",
+      "weather": "多云",
+      "temperature": "11℃~23℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-28",
+      "weather": "晴",
+      "temperature": "11℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-29",
+      "weather": "晴",
+      "temperature": "11℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-30",
+      "weather": "晴",
+      "temperature": "13℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-10-31",
+      "weather": "多云",
+      "temperature": "13℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-11",
+      "weather": "晴",
+      "temperature": "13℃~21℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-12",
+      "weather": "小雨",
+      "temperature": "12℃~18℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-13",
+      "weather": "小雨",
+      "temperature": "13℃~16℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-14",
+      "weather": "小雨",
+      "temperature": "14℃~17℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-15",
+      "weather": "多云",
+      "temperature": "13℃~19℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-16",
+      "weather": "多云",
+      "temperature": "13℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-17",
+      "weather": "多云",
+      "temperature": "11℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-18",
+      "weather": "多云",
+      "temperature": "13℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-19",
+      "weather": "晴",
+      "temperature": "11℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-20",
+      "weather": "小雨",
+      "temperature": "8℃~20℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-21",
+      "weather": "多云",
+      "temperature": "8℃~16℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-22",
+      "weather": "多云",
+      "temperature": "9℃~14℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-23",
+      "weather": "多云",
+      "temperature": "7℃~18℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-24",
+      "weather": "小雨",
+      "temperature": "8℃~14℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-25",
+      "weather": "晴",
+      "temperature": "8℃~17℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-26",
+      "weather": "晴",
+      "temperature": "8℃~18℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-27",
+      "weather": "晴",
+      "temperature": "8℃~18℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-28",
+      "weather": "晴",
+      "temperature": "7℃~18℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-29",
+      "weather": "晴",
+      "temperature": "5℃~16℃",
+      "wind": "东北风 1级"
+    },
+    {
+      "date": "2025-11-30",
+      "weather": "多云",
+      "temperature": "5℃~13℃",
+      "wind": "东北风 1级"
     }
   ]
 }

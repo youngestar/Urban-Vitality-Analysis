@@ -7,6 +7,17 @@ declare global {
     _AMapSecurityConfig?: {
       securityJsCode: string;
     };
+    Neutralino?: {
+      os: {
+        getInfo: () => Promise<{ homeDirectory: string; name: string; }>;
+      };
+      fs: {
+        exists: (path: string) => Promise<boolean>;
+        createDirectory: (path: string, recursive?: boolean) => Promise<void>;
+        readFile: (path: string) => Promise<string>;
+        writeFile: (path: string, content: string) => Promise<void>;
+      };
+    };
   }
   
   // 定义AMapInstance类型
