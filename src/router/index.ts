@@ -90,6 +90,11 @@ const routes: RouteRecordRaw[] = [
         name: 'complementaryScheduling',
         component: () => import('../views/DispatchPlan/ComplementaryScheduling.vue'),
       },
+      {
+        path: '/urbanVitality',
+        name: 'urbanVitality',
+        component: () => import('../views/vitality/VitalityDashboard.vue'),
+      },
     ],
   },
   {

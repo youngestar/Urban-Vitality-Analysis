@@ -1,12 +1,9 @@
 <script setup lang="ts">
-import { Operation, Menu, Document, Switch, User, Message } from '@element-plus/icons-vue'
-import { ref, computed } from 'vue'
+import { Operation, Menu, Document, Switch } from '@element-plus/icons-vue'
+import { computed } from 'vue'
 import { useRouter, useRoute } from 'vue-router'
-import { useChatStore } from '../../stores/chat'
 import { useUserStore } from '../../stores/login'
 
-// 使用 store
-const chatStore = useChatStore()
 const userStore = useUserStore()
 
 // 路由配置
@@ -36,11 +33,6 @@ const turnTo = async (name: string): Promise<void> => {
   }
 }
 
-// 登出功能
-const logout = () => {
-  userStore.logout()
-  router.push('/login')
-}
 </script>
 
 <template>
@@ -72,6 +64,13 @@ const logout = () => {
               <Document />
             </el-icon>
             <span>首页</span>
+          </el-menu-item>
+
+          <el-menu-item index="urbanVitality">
+            <el-icon>
+              <Menu />
+            </el-icon>
+            <span>城市活力</span>
           </el-menu-item>
 
           <!-- 资源监测 -->
